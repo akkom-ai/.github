@@ -34,7 +34,7 @@ This is infrastructure for:
 
 ## Flagship projects
 
-### **llm-orchestrator**
+### [**llm-orchestrator**](https://github.com/akkom-ai/llm-orchestrator)
 
 The core runtime for AI-driven workflows.
 
@@ -51,7 +51,7 @@ This is the “engine room” of akkom-ai.
 
 ---
 
-### **git-checkpoint**
+### [**git-checkpoint**](https://github.com/akkom-ai/git-checkpoint)
 
 A safety layer for AI-driven code modification.
 
