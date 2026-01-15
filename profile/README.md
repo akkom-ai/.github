@@ -4,10 +4,7 @@
 
 akkom-ai is a technical foundation for building **LLM-driven systems that can reason, modify code, run tools, and operate inside real software projects** — not just chat.
 
-We focus on the missing layer between models and reality:
-**orchestration, memory, patching, validation, and execution.**
-
----
+We focus on the missing layer between models and reality: **orchestration, memory, patching, validation, and execution.**
 
 ## What lives here
 
@@ -30,8 +27,6 @@ This is infrastructure for:
 * research systems
 * and anything that needs **models that act, not just talk**
 
----
-
 ## Flagship projects
 
 ### [**llm-orchestrator**](https://github.com/akkom-ai/llm-orchestrator)
@@ -49,8 +44,6 @@ It handles:
 
 This is the “engine room” of akkom-ai.
 
----
-
 ### [**git-checkpoint**](https://github.com/akkom-ai/git-checkpoint)
 
 A safety layer for AI-driven code modification.
@@ -65,8 +58,6 @@ It provides:
 
 Designed so that models can change code **without destroying it**.
 
----
-
 ## Design philosophy
 
 akkom-ai follows three rules:
@@ -80,8 +71,6 @@ akkom-ai follows three rules:
 3. **Agents must be grounded**
    Real files, real repos, real tools, real tests — no hallucinated state.
 
----
-
 ## Not a framework. A foundation.
 
 akkom-ai is not:
@@ -91,8 +80,6 @@ akkom-ai is not:
 * a thin wrapper around an API
 
 It is the **substrate** on which real autonomous systems can be built.
-
----
 
 ## Status
 
