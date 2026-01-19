@@ -1,10 +1,12 @@
-# **akkom-ai**
+## akkom-ai
 
-**Open infrastructure for AI-native software and autonomous agents.**
+**Open infrastructure for AI-native software and correctness-first AI systems.**
 
-akkom-ai is a technical foundation for building **LLM-driven systems that can reason, modify code, run tools, and operate inside real software projects** — not just chat.
+akkom-ai is a technical foundation for building LLM-driven systems that can reason, propose code changes, run tools, and operate inside real software projects — under explicit human-defined control, approval, and audit.
 
-We focus on the missing layer between models and reality: **orchestration, memory, patching, validation, and execution.**
+We focus on the missing layer between models and reality: orchestration, memory, patching, validation, execution, and traceability.
+
+akkom-ai prioritizes correctness, auditability, and reversibility over speed or unrestricted autonomy.
 
 ## What lives here
 
